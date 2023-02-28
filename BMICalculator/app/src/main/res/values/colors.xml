@@ -7,5 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="trans">#00000000</color>
+    <color name="warn">#FF1313</color>
+    <color name="halfwarn">#483FC8</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
