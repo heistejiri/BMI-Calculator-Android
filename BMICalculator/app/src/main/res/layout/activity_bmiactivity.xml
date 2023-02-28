@@ -81,7 +81,7 @@
 
     <android.widget.Button
         android:layout_width="match_parent"
-        android:layout_height="40dp"
+        android:layout_height="50dp"
         android:id="@+id/gotomain"
         android:layout_below="@id/contentlayout"
         android:layout_marginTop="50dp"
