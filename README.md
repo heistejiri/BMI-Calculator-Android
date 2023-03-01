@@ -18,6 +18,8 @@
  
  <img src="/screenshots/screenshot1.jpg"  height ="650" width="400"/>
  <img src="/screenshots/screenshot2.jpg" height ="650" width="400" >
+ <img src="/screenshots/screenshot3.jpg" height ="650" width="400" >
+ <img src="/screenshots/screenshot4.jpg" height ="650" width="400" >
   
 
 ## Getting Started
