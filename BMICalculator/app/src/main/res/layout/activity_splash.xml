@@ -27,8 +27,19 @@
         android:textSize="20sp"
         android:layout_below="@id/logo"
         android:textColor="@color/white"
-        android:lineSpacingExtra="2dp">
+        android:lineSpacingExtra="2dp"/>
 
-    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Designed By Heistejiri"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/playlist"
+        android:textSize="30sp"
+        android:textColor="@color/white"
+        android:lineSpacingExtra="2dp"/>
 
 </RelativeLayout>
